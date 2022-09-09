@@ -1,10 +1,7 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
 /**
- * main - Entry point 
+ * main - Prints numbers from 0 to 9 
  *
  * Return: Always 0 (Success)
  */
