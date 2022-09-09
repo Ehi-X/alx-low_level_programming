@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints all single digit numbers of base
- * 
+ * main - Entry point
+ * author : ehis
  * Return: Always 0 (Success)
  */
 int main(void)
